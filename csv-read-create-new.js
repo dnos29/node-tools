@@ -1,9 +1,11 @@
 const fs = require('fs')
-const csv = require('csv-parser')
+const csv = require('csv-parser');
+const {getNowObj} = require('./date-helpers');
 const books = [];
+const nowObj = getNowObj();
 const createCsvWriter = require('csv-writer').createObjectCsvWriter;
 const csvWriter = createCsvWriter({
-    path: `./upload_files/012021-${Date.now()}.csv`,
+    path: `./upload_files/${nowObj.year}${nowObj.month}-${Date.now()}.csv`,
     header: [
       { id: 'Type', title: 'Type' },
       { id: 'SKU', title: 'SKU' },
@@ -70,7 +72,7 @@ const csvWriter = createCsvWriter({
     ]
 });
 
-fs.createReadStream(`./import_files/012021.csv`)
+fs.createReadStream(`./import_files/${nowObj.year}${nowObj.month}.csv`)
   .pipe(csv())
   .on('data', function (row) {
     console.log(row);

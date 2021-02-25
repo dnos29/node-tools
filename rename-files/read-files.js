@@ -1,29 +1,32 @@
+// doc file anh -> duong dan upload -> luu file .csv
 var fs = require('fs');
+const dateHelper = require('../date-helpers');
+
 const createCsvWriter = require('csv-writer').createObjectCsvWriter;
 
+const nowObj = dateHelper.getNowObj();
 const csvWriter = createCsvWriter({
-    path: `./022021-${Date.now()}.csv`,
+    path: `./${nowObj.year}${nowObj.month}-${Date.now()}.csv`,
     header: [
         { id: 'Images', title: 'Images' },
     ],
 });
-const books = [];
+const imagePaths = [];
 
 let filenames = fs.readdirSync('images', function(err, files){
-    
+    console.log('Reading files...')
 })
-// console.log(filenames)
 filenames.forEach(filename => {
     let new_name = filename.replace(/ /g, "-").replace(/,/g, "");
-    // console.log(`${new_name}`);
+    let image_path = `https://lotuscommunity.org.vn/wp-content/uploads/${nowObj.year}/${nowObj.month}/` + new_name; // TODO:change year, month
     if(new_name !== '.gitkeep'){
-        const book = {
-            Images: new_name,
+        const imagePathObj = {
+            Images: image_path,
         }
-        books.push(book);
+        imagePaths.push(imagePathObj);
     }
 });
-console.log(books);
-csvWriter.writeRecords(books).then(() => {
-    console.log("...Done");
+console.log(imagePaths);
+csvWriter.writeRecords(imagePaths).then(() => {
+    console.log(`...Done - ${imagePaths.length} images`);
   })
