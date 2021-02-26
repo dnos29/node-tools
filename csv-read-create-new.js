@@ -102,10 +102,10 @@ fs.createReadStream(`./import_files/${nowObj.year}${nowObj.month}.csv`)
       Purchasenote: "",
       Saleprice: "",
       Regularprice: 0,
-      Categories: "Sách truyện thiếu nhi > 7-9 tuổi, Sách truyện thiếu nhi", // TODO: check this
-      Tags: "7-9 tuổi",
+      Categories: `${row.Category} > ${row.SubCategory}, ${row.Category}`, // TODO: check this
+      Tags: row.Tags + ',sach-thang-03-2021',
       Shippingclass: "",
-      Images: "",
+      Images: row.Images,
       Downloadlimit: "",
       Downloadexpirydays: "",
       Parent: "",
@@ -145,6 +145,6 @@ fs.createReadStream(`./import_files/${nowObj.year}${nowObj.month}.csv`)
   .on('end', function () {
     console.log("...Writing...");
       csvWriter.writeRecords(books).then(() => {
-        console.log("...Done");
+        console.log(`...Done-${books.length} books`);
       })
     })
