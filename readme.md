@@ -22,4 +22,4 @@ Daily living => Cuộc sống thường ngày
 10. Upload images  
 11. Upload files  
 12. Check result  
-13. Commit git  
+13. Commit git
