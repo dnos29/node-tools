@@ -3,7 +3,9 @@
 3. chạy /rename-files/read-files.js => file images url  
 4. file images url => paste to exel file  => replace url của sách trùng
 5. rename header of list update book. Chú ý trim header.  
-6. Đổi tên header Tag => Tags. Đổi tên Tag tương ứng.   
+6. Đổi tên header Tag => Tags. Đổi tên Tag tương ứng.  
+- Sort tên sách theo thứ tự A-Z
+Age 3 - 6 => 3-6 tuổi
 Age 0-6 => 0-6 tuổi  
 Age 7-9 => 7-9 tuổi  
 Age 10-12 => 10-12 tuổi  
