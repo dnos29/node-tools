@@ -9,6 +9,7 @@ Age 3 - 6 => 3-6 tuổi
 Age 0-6 => 0-6 tuổi  
 Age 7-9 => 7-9 tuổi  
 Age 10-12 => 10-12 tuổi  
+Age 13 and up => Từ 13 tuổi trở lên
 Đổi tên Category tương ứng.   
 Children's storybooks => Sách truyện thiếu nhi   
 Learning => Sách học và hoạt động  
