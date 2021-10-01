@@ -19,6 +19,7 @@ Early readers => 7-9 tuổi
 Activities for young children => Hoạt động (0-6 tuổi)
 Animals => Động vật  
 Daily living => Cuộc sống thường ngày  
+// Remote filter, Sort by name books
 7. Download as csv => import_files.  
 8. Run csv-read-create-new.js  
 9. Replace all 500,000đ => 500\,000đ  
