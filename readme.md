@@ -22,6 +22,8 @@ Daily living => Cuộc sống thường ngày
 // Remote filter, Sort by name books
 7. Download as csv => import_files.  
 8. Run csv-read-create-new.js  
+// if upload books for February 2021. The file name of import_files and upload_file will be 202101.  
+// Images name will include 2021/01 but Tags will include sach-thang-02-2021
 9. Replace all 500,000đ => 500\,000đ  
 10. Upload images  
 11. Upload files  
