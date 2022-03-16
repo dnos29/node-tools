@@ -103,7 +103,7 @@ fs.createReadStream(`./import_files/${nowObj.year}${nowObj.month}.csv`)
       Saleprice: "",
       Regularprice: 0,
       Categories: `${row.Category} > ${row.SubCategory}, ${row.Category}`, // TODO: check this
-      Tags: row.Tags + `,sach-thang-${nowObj.nextMonth}-2021`,
+      Tags: row.Tags + `,sach-thang-${nowObj.month}-2022`,
       Shippingclass: "",
       Images: row.Images,
       Downloadlimit: "",
