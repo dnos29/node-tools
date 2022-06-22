@@ -1,0 +1,392 @@
+Chọn loại khách sạn,,Chọn Loại ks,Chọn cấp sao,,"Đánh giá, chấm điểm","Đánh giá, chấm điểm",Yêu cầu đối với loại khách sạn,H,R,M,F,Yêu cầu đối với hạng sao,1,2,3,4,5,
+M,M,,3,3,nhấn 1,1 hoặc x,,,,,,,,,,,,2
+"1 Vị trí, kiến trúc",,,,,,,,,,,,,,,,,,3
+1.1 Vị trí,,,,,,,,,,,,,,,,,,4
+- Thuận lợi,1,Ap Dung,Khong,,,,"H, R, M, F",1,1,1,1,"1, 2",1,1,,,,5
+"- Rất thuận lợi, dễ tiếp cận",1,Ap Dung,khuyen khich,1,1,1,"H, R, M, F",1,1,1,1,"3, 4, 5",,,1,1,1,6
+"- Môi trường, cảnh quan đẹp",1,Ap Dung,khuyen khich,1,1,1,"H, R, M, F",1,1,1,1,"3, 4, 5",,,1,1,1,7
+1.2 Thiết kế kiến trúc,,,,,,,,,,,,,,,,,,8
+"- Thiết kế kiến trúc phù hợp với yêu cầu kinh doanh, các khu vực dịch vụ được bố trí hợp lý, thuận tiện",1,Ap Dung,Bat buoc,x,1,x,"H, R, M, F",1,1,1,1,"1(*), 2(*), 3(*),4(*), 5(*)",x,x,x,x,x,9
+- Thiết kế kiến trúc đẹp,1,Ap Dung,Bat buoc,x,1,x,"H, R, M, F",1,1,1,1,"3(*), 4(*), 5(*)",,,x,x,x,10
+- Kiến trúc độc đáo,1,Ap Dung,Khong,,1,,"H, R, M, F",1,1,1,1,5,,,,,1,11
+- Toàn cảnh được thiết kế thống nhất,1,Ap Dung,Khong,,1,,"H, R, M, F",1,1,1,1,5(*),,,,,x,12
+"- Nội, ngoại thất được thiết kế, bài trí, trang trí hợp lý",1,Ap Dung,Khong,,,,"H, R, M, F",1,1,1,1,"1(*), 2(*)",x,x,,,,13
+"- Nội, ngoại thất được thiết kế, bài trí, trang trí hợp lý, đẹp, sang trọng, vật liệu xây dựng chất lượng tốt",1,Ap Dung,Bat buoc,x,1,x,"H, R, M, F",1,1,1,1,"3(*), 4(*), 5(*)",,,x,x,x,14
+"- Mặt tiền khách sạn: đường vào, vỉa hè, tiểu cảnh được thiết kế đẹp, sang trọng, tinh tế",,Khong,Khong,,1,,"H, R",1,1,,,5(*),,,,,x,15
+- Có mái che trước sảnh đón tiếp,,Khong,khuyen khich,1,1,1,H,1,,,,"3, 4(*), 5(*)",,,1,x,x,16
+- Cửa ra vào riêng cho khách và nhân viên,1,Ap Dung,khuyen khich,1,1,1,"H, R, M, F",1,1,1,1,"3, 4(*), 5(*)",,,1,x,x,17
+- Đường vào đảm bảo cho người khuyết tật tiếp cận sử dụng,1,Ap Dung,khuyen khich,1,1,1,"H, R, M, F",1,1,1,1,"1, 2, 3, 4",1,1,1,1,,18
+- Đường vào đảm bảo cho người khuyết tật tiếp cận sử dụng,,Khong,Khong,,,,R,,1,,,5,,,,,1,19
+- Đường vào đảm bảo cho người khuyết tật tiếp cận sử dụng,1,Ap Dung,Khong,,1,,"H, M, F",1,,1,1,5(*),,,,,x,20
+"- Buồng ngủ cho người khuyết tật đi bằng xe lăn, xe đẩy",1,Ap Dung,Khong,,,,"H, R, M, F",1,1,1,1,"4(*), 5(*)",,,,x,x,21
+- Tầng đặc biệt hoặc khu phục vụ đặc biệt,,Khong,Khong,,1,,H,1,,,,5(*),,,,,x,22
+- Tầng đặc biệt hoặc khu phục vụ đặc biệt,1,Ap Dung,Khong,,1,,R,1,1,1,1,5,,,,,1,23
+- Khu vực buồng ngủ cách âm tốt,1,Ap Dung,khuyen khich,1,1,1,"H, R, M, F",1,1,1,1,"1, 2, 3, 4(*), 5(*)",1,1,1,x,x,24
+1.3 Quy mô buồng ngủ,,,,,,,,,,,,,,,,,,25
+- 10 buồng ngủ,1,Ap Dung,Khong,,,,"H, R, M, F",1,1,1,1,1(*),x,,,,,26
+- 15 buồng ngủ,,Khong,Khong,,,,R,,1,,,2(*),,x,,,,27
+- 20 buồng ngủ,1,Ap Dung,Khong,,,,"H, M, F",1,,1,1,2(*),,x,,,,28
+- 30 buồng ngủ,1,Ap Dung,Bat buoc,x,,,"M, F",,,1,1,3(*),,,x,,,29
+- 40 buồng ngủ,,Khong,Bat buoc,x,,,R,,1,,,3(*),,,x,,,30
+- 50 buồng ngủ,,Khong,Bat buoc,x,1,x,H,1,,,,3(*),,,x,,,31
+- 50 buồng ngủ,1,Ap Dung,Khong,,,,"M, F",,,1,1,4(*),,,,x,,32
+- 60 buồng ngủ,,Khong,Khong,,,,R,,1,,,4(*),,,,x,,33
+- 80 buồng ngủ,,Khong,Khong,,,,H,1,,,,4(*),,,,x,,34
+- 80 buồng ngủ,1,Ap Dung,Khong,,,,"R, M, F",,1,1,1,5(*),,,,,x,35
+- 100 buồng ngủ,,Khong,Khong,,,,H,1,,,,5(*),,,,,x,36
+1.4 Nơi để xe và giao thông nội bộ,,,,,,,,,,,,,,,,,,37
+a) Nơi để xe,,,,,,,,,,,,,,,,,,38
+- Nơi để xe cho khách trong hoặc cách khu vực khách sạn tối đa 200 m,,Khong,Khong,,,,H,1,,,,"1, 2",1,1,,,,39
+- Nơi để xe trong khu vực khách sạn cho 5 %số buồng ngủ,,Khong,khuyen khich,1,1,1,H,1,,,,3,,,1,,,40
+- Nơi để xe trong khu vực khách sạn cho 10 %số buồng ngủ,,Khong,Khong,,,,H,1,,,,4,,,,1,,41
+- Nơi để xe trong khu vực khách sạn cho 15 %số buồng ngủ,,Khong,Khong,,,,H,1,,,,5,,,,,1,42
+- Nơi để xe trong khu vực khách sạn cho 50 %số buồng ngủ,,Khong,Bat buoc,x,,,R,,1,,,"1(*), 2(*), 3(*),4(*), 5(*)",x,x,x,x,x,43
+- Nơi để xe trong khu vực khách sạn cho 100 %số buồng ngủ,1,Ap Dung,Bat buoc,x,,,M,,,1,,"1(*), 2(*), 3(*),4(*), 5(*)",x,x,x,x,x,44
+"- Nơi để xe thuận tiện, an toàn, thông gió tốt",1,Ap Dung,Bat buoc,x,1,x,"H, R, M",1,1,1,,"1(*), 2(*), 3(*),4(*), 5(*)",x,x,x,x,x,45
+b) Giao thông nội bộ,,,,,,,,,,,,,,,,,,46
+"- Lối đi bộ và giao thông nội bộ thuận tiện, an toàn, thông gió tốt",1,Ap Dung,Bat buoc,x,1,x,"H, R, M, F",1,1,1,1,"1(*), 2(*), 3(*),4(*), 5(*)",x,x,x,x,x,47
+1.5 Khu vực sảnh đón tiếp,,,,,,,,,,,,,,,,,,48
+- Có sảnh đón tiếp,1,Ap Dung,Bat buoc,x,1,x,"H, R, M, F",1,1,1,1,"1(*), 2(*), 3(*),4(*), 5(*)",x,x,x,x,x,49
+- Diện tích 10 m2,1,Ap Dung,Khong,,,,"H, R, M",1,1,1,,1,1,,,,,50
+- Diện tích 10 m2,,Khong,khuyen khich,1,,,F,,,,1,3,,,1,,,51
+- Diện tích 20 m2,1,Ap Dung,Khong,,,,"H, R, M",1,1,1,,2,,1,,,,52
+- Diện tích 20 m2,,Khong,Khong,,,,F,,,,1,4,,,,1,,53
+- Diện tích 35 m2,1,Ap Dung,khuyen khich,1,1,1,"H, R, M",1,1,1,,3,,,1,,,54
+- Diện tích 35 m2,,Khong,Khong,,,,F,,,,1,5,,,,,1,55
+- Diện tích 60 m2,1,Ap Dung,Khong,,,,"H, R, M",1,1,1,,4,,,,1,,56
+- Diện tích 100 m,1,Ap Dung,Khong,,1,,"H, R, M",1,1,1,,5,,,,,1,57
+- Phòng vệ sinh sảnh hoặc gần khu vực sảnh,1,Ap Dung,Khong,,,,"H, R, M, F",1,1,1,1,"1(*), 2(*)",x,x,,,,58
+- Phòng vệ sinh sảnh hoặc gần khu vực sảnh cho nam và nữ riêng,1,Ap Dung,Bat buoc,x,1,x,"H, R, M, F",1,1,1,1,"3(*), 4(*)",,,x,x,,59
+- Phòng vệ sinh sảnh cho nam và nữ riêng,1,Ap Dung,Khong,,,,"H, R, M, F",1,1,1,1,5(*),,,,,x,60
+- Khu vực hút thuốc riêng,1,Ap Dung,khuyen khich,1,1,1,"H, R, M, F",1,1,1,1,"1, 2, 3, 4, 5",1,1,1,1,1,61
+"- Phòng vệ sinh cho người khuyết tật đi bằng xe lăn, xe đẩy",1,Ap Dung,Khong,,,,"H, R, M, F",1,1,1,1,5,,,,,1,62
+- Bar sảnh,,Khong,Khong,,,,R,,1,,,"4(*), 5(*)",,,,x,x,63
+- Bar sảnh,1,Ap Dung,Khong,,,,"H, M, F",1,,1,1,5(*),,,,,x,64
+1.6 Không gian xanh,,,,,,,,,,,,,,,,,,65
+- Cây xanh ở các khu vực công cộng,1,Ap Dung,khuyen khich,1,1,1,"H, R, M, F",1,1,1,1,"2, 3, 4, 5",,1,1,1,1,66
+"- Sân vườn, cây xanh",,Khong,Bat buoc,x,,,R,,1,,,"1(*), 2(*), 3(*),4(*), 5(*)",x,x,x,x,x,67
+"- Sân vườn, cây xanh",,Khong,Khong,,,,H,1,,,,5,,,,,,68
+1.7 Diện tích buồng ngủ (bao gồm phòng ngủ và phòng vệ sinh),,,,,,,,,,,,,,,,,,69
+"- Buồng một giường đơn 12 m2
+- Buồng một giường đôi hoặc hai giường đơn 15 m2",1,Ap Dung,Khong,,,,"H, R, M",1,1,1,,1(*),x,,,,,70
+"- Buồng một giường đơn 15 m2
+- Buồng một giường đôi hoặc hai giường đơn17 m2",1,Ap Dung,Khong,,,,"H, R, M",1,1,1,,2(*),,x,,,,71
+"- Buồng một giường đơn 18 m2
+- Buồng một giường đôi hoặc hai giường đơn22 m2",1,Ap Dung,Bat buoc,x,1,x,"H, R, M",1,1,1,,3(*),,,x,,,72
+"- Buồng một giường đơn 21 m2
+- Buồng một giường đôi hoặc hai giường đơn25 m2",1,Ap Dung,Khong,,,,"H, R, M",1,1,1,,4(*),,,,x,,73
+- Buồng đặc biệt (suite) 41 m2,1,Ap Dung,Khong,,,,"H, R, M",1,1,1,,4,,,,1,,74
+"- Buồng một giường đơn 24 m2
+- Buồng một giường đôi hoặc hai giường đơn32 m2",1,Ap Dung,Khong,,,,"H, R, M",1,1,1,,5(*),,,,,x,75
+- Buồng đặc biệt (suite) 56 m2,1,Ap Dung,Khong,,,,"H, R, M",1,1,1,,5,,,,,1,76
+- Buồng đặc biệt cao cấp 100 m2,1,Ap Dung,Khong,,,,"H, R, M",1,1,1,,5,,,,,1,77
+"1.8 Nhà hàng, quầy bar",,,,,,,,,,,,,,,,,,78
+- 01 nhà hàng,1,Ap Dung,Khong,,,,"H, R, M, F",1,1,1,1,2(*),,x,,,,79
+- 01 nhà hàng có quầy bar,1,Ap Dung,Bat buoc,x,1,x,"H, R, M, F",1,1,1,1,3(*),,,x,,,80
+"- 01 nhà hàng, có phục vụ món Âu, Á",1,Ap Dung,Khong,,,,"H, R, M, F",1,1,1,1,4(*),,,,x,,81
+"- 02 nhà hàng, có phục vụ món Âu, Á",1,Ap Dung,Khong,,1,,"H, R, M, F",1,1,1,1,5(*),,,,,x,82
+- Số ghế nhà hàng bằng 50 % số giường,1,Ap Dung,Khong,,,,"H, R, M, F",1,1,1,1,2(*),,x,,,,83
+- Số ghế nhà hàng bằng 60 % số giường,1,Ap Dung,Bat buoc,x,1,x,"H, R, M, F",1,1,1,1,3(*),,,x,,,84
+- Số ghế nhà hàng bằng 80 % số giường,1,Ap Dung,Khong,,,,"H, R, M, F",1,1,1,1,"4(*), 5(*)",,,,x,x,85
+- 01 quầy bar,1,Ap Dung,Khong,,,,"H, M, F",1,,1,1,4(*),,,,x,,86
+- 02 quầy bar,,Khong,Khong,,,,R,,1,,,"4(*), 5(*)",,,,x,x,87
+- 02 quầy bar,1,Ap Dung,Khong,,1,,"H, M, F",1,,1,1,5(*),,,,,x,88
+- Phòng vệ sinh (áp dụng đối với nhà hàng tách rời sảnh đón tiếp),1,Ap Dung,Khong,,,,"H, R, M, F",1,1,1,1,2,,1,,,,89
+- Phòng vệ sinh cho nam và nữ riêng (áp dụng đối với nhà hàng tách rời sảnh đón tiếp),1,Ap Dung,Bat buoc,x,1,x,"H, R, M, F",1,1,1,1,"3(*), 4(*), 5(*)",,,x,x,x,90
+- Khu vực hút thuốc riêng,1,Ap Dung,khuyen khich,1,1,1,"H, R, M, F",1,1,1,1,"2, 3, 4(*), 5(*)",,1,1,x,x,91
+1.9 Khu vực bếp,,,,,,,,,,,,,,,,,,92
+- Thuận tiện cho việc vận chuyển thức ăn đến nhà hàng,1,Ap Dung,Bat buoc,x,1,x,"H, R, M, F",1,1,1,1,"2(*), 3(*), 4(*),5(*)",,x,x,x,x,93
+- Bếp,1,Ap Dung,Bat buoc,x,1,x,"H, R, M, F",1,1,1,1,"2(*), 3(*)",,x,x,,,94
+"- Bếp Âu, Á",1,Ap Dung,Khong,,,,"H, R, M, F",1,1,1,1,"4(*), 5(*)",,,,x,x,95
+- Bếp bánh,1,Ap Dung,Khong,,,,"H, R, M, F",1,1,1,1,"4(*), 5(*)",,,,x,x,96
+- Thông gió tốt,1,Ap Dung,Bat buoc,x,1,x,"H, R, M, F",1,1,1,1,"2(*), 3(*), 4(*),5(*)",,x,x,x,x,97
+"- Diện tích đảm bảo quy trình sơ chế, chế biến",1,Ap Dung,Bat buoc,x,1,x,"H, R, M, F",1,1,1,1,"2(*), 3(*), 4(*),5(*)",,x,x,x,x,98
+"- Khu vực sơ chế và chế biến nhiệt, nguội(nóng, lạnh) được tách riêng",1,Ap Dung,Bat buoc,x,1,x,"H, R, M, F",1,1,1,1,"3(*), 4(*), 5(*)",,,x,x,x,99
+- Khu vực soạn chia thức ăn,1,Ap Dung,Khong,,,,"H, R, M, F",1,1,1,1,"4(*), 5(*)",,,,x,x,100
+"- Phòng đệm, đảm bảo cách âm, cách nhiệt, cách mùi giữa bếp và phòng ăn",1,Ap Dung,Khong,,,,"H, R, M, F",1,1,1,1,"4, 5(*)",,,,1,x,101
+"- Lối chuyển rác tách biệt, đảm bảo vệ sinh",1,Ap Dung,khuyen khich,1,1,1,"H, R, M, F",1,1,1,1,"3, 4(*), 5(*)",,,1,x,x,102
+"- Có biện pháp ngăn chặn động vật, côn trùng gây hại",1,Ap Dung,Bat buoc,x,1,x,"H, R, M, F",1,1,1,1,"2(*), 3(*), 4(*),5(*)",,x,x,x,x,103
+"- Tường phẳng không thấm nước, dễ làm sạch",1,Ap Dung,Bat buoc,x,1,x,"H, R, M, F",1,1,1,1,"2(*), 3(*), 4(*),5(*)",,x,x,x,x,104
+- Trần bếp thuận tiện cho vệ sinh và đảm bảo an toàn,1,Ap Dung,Bat buoc,x,1,x,"H, R, M, F",1,1,1,1,"2(*), 3(*), 4(*),5(*)",,x,x,x,x,105
+"- Sàn phẳng, lát vật liệu chống trơn, dễ cọ rửa",1,Ap Dung,Bat buoc,x,1,x,"H, R, M, F",1,1,1,1,"2(*), 3(*), 4(*),5(*)",,x,x,x,x,106
+- Phòng vệ sinh cho nhân viên bếp (bên ngoài khu vực bếp),1,Ap Dung,khuyen khich,1,1,1,"H, R, M, F",1,1,1,1,"3, 4, 5(*)",,,1,1,x,107
+1.10 Kho,,,,,,,,,,,,,,,,,,108
+"- Kho bảo quản nguyên vật liệu, thực phẩm",1,Ap Dung,khuyen khich,1,1,1,"H, R, M, F",1,1,1,1,"2, 3, 4(*), 5(*)",,1,1,x,x,109
+"- Kho để đồ dùng, thiết bị dự phòng",1,Ap Dung,Bat buoc,x,1,x,"H, R, M, F",1,1,1,1,"2(*), 3(*), 4(*),5(*)",,x,x,x,x,110
+- Các kho lạnh (theo loại thực phẩm),1,Ap Dung,Khong,,,,"H, R, M, F",1,1,1,1,"4(*), 5(*)",,,,x,x,111
+"1.11 Phòng họp, hội nghị, hội thảo",,,,,,,,,,,,,,,,,,112
+- 01 phòng họp 30 ghế,,Khong,Bat buoc,x,1,x,H,1,,,,3(*),,,x,,,113
+- 01 phòng họp,,Khong,Khong,,,,H,1,,,,4(*),,,,x,,114
+- 01 phòng hội thảo,,Khong,Khong,,,,H,1,,,,4(*),,,,x,,115
+- 01 phòng hội nghị,,Khong,Khong,,,,H,1,,,,"4(*), 5(*)",,,,x,x,116
+- 02 phòng họp,,Khong,Khong,,,,H,1,,,,5(*),,,,,x,117
+- 02 phòng hội thảo,,Khong,Khong,,1,,H,1,,,,5(*),,,,,x,118
+"- Sảnh chờ, đăng ký khách và giải khát giữa giờ",,Khong,Khong,,,,H,1,,,,"4(*), 5(*)",,,,x,x,119
+"- Phòng vệ sinh cho nam và nữ riêng (áp dụng đối với phòng họp, hội nghị, hội thảo tách rời sảnh đón tiếp)",,Khong,Bat buoc,x,1,x,H,1,,,,"3(*), 4(*), 5(*)",,,x,x,x,120
+- Cách âm tốt,,Khong,Khong,,,,H,1,,,,"4(*), 5(*)",,,,x,x,121
+"1.12 Khu vực dành cho cán bộ, nhân viên",,,,,,,,,,,,,,,,,,122
+- Phòng làm việc của người quản lý và các bộ phận chức năng,1,Ap Dung,Bat buoc,x,,,"H, R, M, F",1,1,1,1,"2(*), 3(*), 4(*),5(*)",,x,x,x,x,123
+- Phòng trực buồng,1,Ap Dung,khuyen khich,1,1,1,"H, R, M, F",1,1,1,1,"2, 3, 4(*), 5(*)",,1,1,x,x,124
+- Phòng thay quần áo,1,Ap Dung,khuyen khich,1,1,1,"H, R, M, F",1,1,1,1,"3, 4(*), 5(*)",,,1,x,x,125
+- Phòng vệ sinh cho nam và nữ riêng,1,Ap Dung,Bat buoc,x,1,x,"H, R, M, F",1,1,1,1,"3(*), 4(*), 5(*)",,,x,x,x,126
+- Phòng tắm,1,Ap Dung,Khong,,,,"H, R, M, F",1,1,1,1,"4(*), 5(*)",,,,x,x,127
+- Phòng ăn nhân viên,1,Ap Dung,Khong,,,,"H, R, M, F",1,1,1,1,"4(*), 5(*)",,,,x,x,128
+1.13 Hành lang,,,,,,,,,,,,,,,,,,129
+- Thuận tiện đi lại và đảm bảo an toàn thoát hiểm,1,Ap Dung,Bat buoc,x,,,"H, R, M, F",1,1,1,1,"1(*), 2(*), 3(*),4(*), 5(*)",x,x,x,x,x,130
+"2 Trang thiết bị, tiện nghi",,,,,,,,,,,,,,,,,,131
+"2.1 Chất lượng, bài trí, trang trí",,,,,,,,,,,,,,,,,,132
+- Chất lượng khá,1,Ap Dung,Khong,,,,"H, R, M, F",1,1,1,1,"1(*), 2(*)",x,x,,,,133
+- Chất lượng tốt,1,Ap Dung,Bat buoc,x,1,x,"H, R, M, F",1,1,1,1,3(*),,,x,,,134
+- Chất lượng cao,1,Ap Dung,Khong,,,,"H, R, M, F",1,1,1,1,"4(*), 5(*)",,,,x,x,135
+- Bài trí hợp lý,1,Ap Dung,Bat buoc,x,1,x,"H, R, M, F",1,1,1,1,"1(*), 2(*), 3(*),4(*), 5(*)",x,x,x,x,x,136
+- Màu sắc hài hòa,1,Ap Dung,Bat buoc,x,1,x,"H, R, M, F",1,1,1,1,"1(*), 2(*), 3(*),4(*), 5(*)",x,x,x,x,x,137
+- Hoạt động tốt,1,Ap Dung,Bat buoc,x,1,x,"H, R, M, F",1,1,1,1,"1(*), 2(*), 3(*),4(*), 5(*)",x,x,x,x,x,138
+- Đồng bộ,1,Ap Dung,Bat buoc,x,1,x,"H, R, M, F",1,1,1,1,"3(*), 4(*), 5(*)",,,x,x,x,139
+- Trang trí nội thất đẹp,1,Ap Dung,Khong,,,,"H, R, M, F",1,1,1,1,4(*),,,,x,,140
+"- Hiện đại, sang trọng",1,Ap Dung,Khong,,,,"H, R, M, F",1,1,1,1,"4(*), 5(*)",,,,x,x,141
+- Trang trí nghệ thuật,1,Ap Dung,Khong,,,,"H, R, M, F",1,1,1,1,5(*),,,,,x,142
+2.2 Trang thiết bị nội thất,,,,,,,,,,,,,,,,,,143
+2.2.1 Sảnh đón tiếp; Phòng vệ sinh sảnh và các khu vực công cộng,,,,,,,,,,,,,,,,,,144
+a) Sảnh đón tiếp,,,,,,,,,,,,,,,,,,145
+- Quầy lễ tân,1,Ap Dung,Bat buoc,x,,,"H, R, M, F",1,1,1,1,"1(*), 2(*), 3(*),4(*), 5(*)",x,x,x,x,x,146
+- Điện thoại,1,Ap Dung,Bat buoc,x,,,"H, R, M, F",1,1,1,1,"1(*), 2(*), 3(*),4(*), 5(*)",x,x,x,x,x,147
+- Máy vi tính,1,Ap Dung,Bat buoc,x,,,"H, R, M, F",1,1,1,1,"1(*), 2(*), 3(*),4(*), 5(*)",x,x,x,x,x,148
+- Bàn ghế tiếp khách,1,Ap Dung,Bat buoc,x,,,"H, R, M, F",1,1,1,1,"1, 2, 3(*), 4(*),5(*)",1,1,x,x,x,149
+- Bảng hoặc màn hình niêm yết giá dịch vụ và phương thức thanh toán,1,Ap Dung,Bat buoc,x,,,"H, R, M, F",1,1,1,1,"1(*), 2(*), 3(*),4(*), 5(*)",x,x,x,x,x,150
+- Thiết bị phục vụ thanh toán bằng thẻ tín dụng,1,Ap Dung,Bat buoc,x,,,"H, R, M, F",1,1,1,1,"1, 2, 3(*), 4(*),5(*)",1,1,x,x,x,151
+- Cửa ra vào được bố trí thuận tiện,1,Ap Dung,Bat buoc,x,,,"H, R, M, F",1,1,1,1,"1(*), 2(*), 3(*),4(*), 5(*)",x,x,x,x,x,152
+- Nơi giữ đồ và tài sản giá trị của khách,1,Ap Dung,Bat buoc,x,,,"H, R, M, F",1,1,1,1,"1(*), 2(*), 3(*),4(*), 5(*)",x,x,x,x,x,153
+- Internet không dây (wifi),1,Ap Dung,Bat buoc,x,,,"H, R, M, F",1,1,1,1,"1, 2, 3(*), 4(*),5(*)",1,1,x,x,x,154
+- Bảng hoặc màn hình niêm yết tỷ giá ngoại tệ,1,Ap Dung,khuyen khich,1,,,"H, R, M, F",1,1,1,1,"1, 2, 3, 4, 5",1,1,1,1,1,155
+- Xe đẩy cho người khuyết tật,1,Ap Dung,khuyen khich,1,,,"H, R, M, F",1,1,1,1,"3, 4, 5(*)",,,1,1,x,156
+"- Giá để báo, tạp chí hoặc hệ thống đọc báo trực tuyến (Press Reader)",1,Ap Dung,Khong,,,,"H, R, M, F",1,1,1,1,"4(*), 5(*)",,,,x,x,157
+"- Quầy thông tin, quan hệ khách hàng và hỗ trợ đón tiếp (trực cửa, chuyển hành lý, văn thư, xe đưa đón khách...)",1,Ap Dung,Khong,,,,"H, R, M, F",1,1,1,1,"4, 5(*)",,,,1,x,158
+- Quầy lễ tân tổ chức thành các quầy phân theo chức năng:,,,,,,,,,,,,,,,,,,159
++ Quầy đặt buồng,1,Ap Dung,Khong,,1,,"H, R, M, F",1,1,1,1,5,,,,,1,160
++ Quầy đón tiếp,1,Ap Dung,Khong,,1,,"H, R, M, F",1,1,1,1,5,,,,,1,161
++ Tổng đài điện thoại,1,Ap Dung,Khong,,,,"H, R, M, F",1,1,1,1,5,,,,,1,162
+b) Phòng vệ sinh sảnh và các khu vực công cộng,,,,,,,,,,,,,,,,,,163
+- Bồn cầu,1,Ap Dung,Bat buoc,x,,,"H, R, M, F",1,1,1,1,"1(*), 2(*), 3(*),4(*), 5(*)",x,x,x,x,x,164
+- Bồn tiểu nam (phòng vệ sinh nam),1,Ap Dung,Bat buoc,x,,,"H, R, M, F",1,1,1,1,"1(*), 2(*), 3(*),4(*), 5(*)",x,x,x,x,x,165
+- Giấy vệ sinh,1,Ap Dung,Bat buoc,x,,,"H, R, M, F",1,1,1,1,"1(*), 2(*), 3(*),4(*), 5(*)",x,x,x,x,x,166
+- Vòi nước di động cạnh bồn cầu,1,Ap Dung,khuyen khich,1,,,"H, R, M, F",1,1,1,1,"3, 4, 5",,,1,1,1,167
+- Chậu rửa mặt,1,Ap Dung,Bat buoc,x,,,"H, R, M, F",1,1,1,1,"1(*), 2(*), 3(*),4(*), 5(*)",x,x,x,x,x,168
+- Gương soi,1,Ap Dung,Bat buoc,x,,,"H, R, M, F",1,1,1,1,"1, 2(*), 3(*), 4(*),5(*)",1,x,x,x,x,169
+- Vòi nước,1,Ap Dung,Bat buoc,x,,,"H, R, M, F",1,1,1,1,"1(*), 2(*), 3(*),4(*), 5(*)",x,x,x,x,x,170
+- Xà phòng,1,Ap Dung,Bat buoc,x,,,"H, R, M, F",1,1,1,1,"1(*), 2(*), 3(*),4(*), 5(*)",x,x,x,x,x,171
+- Thùng rác có nắp,1,Ap Dung,Bat buoc,x,,,"H, R, M, F",1,1,1,1,"1(*), 2(*), 3(*),4(*), 5(*)",x,x,x,x,x,172
+- Thiết bị thông gió,1,Ap Dung,Bat buoc,x,,,"H, R, M, F",1,1,1,1,"1(*), 2(*), 3(*),4(*), 5(*)",x,x,x,x,x,173
+- Móc treo túi hoặc chỗ để túi,1,Ap Dung,Bat buoc,x,,,"H, R, M, F",1,1,1,1,"1(*), 2(*), 3(*),4(*), 5(*)",x,x,x,x,x,174
+- Giấy hoặc khăn lau tay,1,Ap Dung,Bat buoc,x,,,"H, R, M, F",1,1,1,1,"3(*), 4(*), 5(*)",,,x,x,x,175
+- Máy sấy tay,1,Ap Dung,khuyen khich,1,,,"H, R, M, F",1,1,1,1,"3, 4, 5",,,1,1,1,176
+- Hệ thống ga và xi phông thoát sàn đảm bảo ngăn mùi hôi,1,Ap Dung,Bat buoc,x,,,"H, R, M, F",1,1,1,1,"1(*), 2(*), 3(*),4(*), 5(*)",x,x,x,x,x,177
+2.2.2 Buồng ngủ và phòng vệ sinh trong buồng ngủ,,,,,,,,,,,,,,,,,,178
+a) Buồng ngủ,,,,,,,,,,,,,,,,,,179
+"- Giường đơn 0,9 m x 2 m",1,Ap Dung,Khong,,,,"H, R, M, F",1,1,1,1,"1(*), 2(*)",x,x,,,,180
+"- Giường đơn 1,0 m x 2 m",1,Ap Dung,Bat buoc,x,,,"H, R, M, F",1,1,1,1,"3(*), 4(*)",,,x,x,,181
+"- Giường đơn 1,2 m x 2 m",1,Ap Dung,Khong,,1,,"H, R, M, F",1,1,1,1,5(*),,,,,x,182
+"- Giường đôi 1,6 m x 2 m",1,Ap Dung,Bat buoc,x,,,"H, R, M, F",1,1,1,1,"1(*), 2(*), 3(*),4(*), 5(*)",x,x,x,x,x,183
+"- Giường buồng đặc biệt cao cấp 2,2 m x 2,2 m",1,Ap Dung,Khong,,1,,"H, R, M, F",1,1,1,1,5(*),,,,,x,184
+"- Giường cho người khuyết tật 1,8 m x 2 m",1,Ap Dung,Khong,,,,"H, R, M, F",1,1,1,1,"4(*), 5(*)",,,,x,x,185
+"- Đệm dày 10 cm, có ga bọc",1,Ap Dung,Khong,,,,"H, R, M, F",1,1,1,1,"1(*), 2(*)",x,x,,,,186
+"- Đệm dày 20 cm, có ga bọc",1,Ap Dung,Bat buoc,x,,,"H, R, M, F",1,1,1,1,"3(*), 4(*), 5(*)",,,x,x,x,187
+- Chăn có vỏ bọc,1,Ap Dung,Bat buoc,x,,,"H, R, M, F",1,1,1,1,"1(*), 2(*), 3(*),4(*), 5(*)",x,x,x,x,x,188
+- Gối có vỏ bọc,1,Ap Dung,Bat buoc,x,,,"H, R, M, F",1,1,1,1,"1(*), 2(*), 3(*),4(*), 5(*)",x,x,x,x,x,189
+"- Tủ hoặc kệ đầu giường (buồng một giường đơn: 01 tủ/kệ đầu giường, buồng một giường đôi: 02 tủ/kệ đầu giường, buồng hai giườngđơn: 01 hoặc 02 tủ/kệ đầu giường)",1,Ap Dung,Bat buoc,x,,,"H, R, M, F",1,1,1,1,"1, 2(*), 3(*), 4(*),5(*)",1,x,x,x,x,190
+- Ổ cắm điện an toàn ở đầu giường,1,Ap Dung,khuyen khich,1,,,"H, R, M, F",1,1,1,1,"3, 4(*), 5(*)",,,1,x,x,191
+- Bảng điều khiển thiết bị điện đặt ở tủ đầu giường,1,Ap Dung,Khong,,,,"H, R, M, F",1,1,1,1,"4, 5",,,,1,1,192
+- Đèn đầu giường,1,Ap Dung,Khong,,,,"H, R, M, F",1,1,1,1,"1, 2(*)",1,x,,,,193
+- Đèn đầu giường cho mỗi khách,1,Ap Dung,Bat buoc,x,,,"H, R, M, F",1,1,1,1,"3(*), 4(*)",,,x,x,,194
+- Đèn đầu giường cho mỗi khách chỉnh được độ sáng,1,Ap Dung,Khong,,,,"H, R, M, F",1,1,1,1,"4, 5(*)",,,,1,x,195
+- Đèn đủ chiếu sáng,1,Ap Dung,Bat buoc,x,,,"H, R, M, F",1,1,1,1,"1(*), 2(*), 3(*),4(*), 5(*)",x,x,x,x,x,196
+- Điện thoại,1,Ap Dung,Bat buoc,x,,,"H, R, M, F",1,1,1,1,"1(*), 2(*), 3(*),4(*), 5(*)",x,x,x,x,x,197
+- Tủ đựng quần áo có mắc treo quần áo,1,Ap Dung,Bat buoc,x,,,"H, R, M, F",1,1,1,1,"1(*), 2(*), 3(*),4(*), 5(*)",x,x,x,x,x,198
+"- Mắc áo có nhiều loại để treo được các loại quần, áo",1,Ap Dung,Khong,,,,"H, R, M, F",1,1,1,1,"4, 5",,,,1,1,199
+- Bàn chải quần áo,1,Ap Dung,khuyen khich,1,,,"H, R, M, F",1,1,1,1,"3, 4, 5",,,1,1,1,200
+- Bàn ghế uống nước,1,Ap Dung,Bat buoc,x,,,"H, R, M",1,1,1,,"1, 2, 3(*), 4(*),5(*)",1,1,x,x,x,201
+- Bàn ghế uống nước,,Khong,khuyen khich,1,,,F,,,,1,"1, 2, 3, 4, 5",1,1,1,1,1,202
+- Cốc uống nước,1,Ap Dung,Bat buoc,x,,,"H, R, M, F",1,1,1,1,"1(*), 2(*), 3(*),4(*), 5(*)",x,x,x,x,x,203
+"- Tách uống trà, cà phê",1,Ap Dung,Khong,,,,"H, R, M, F",1,1,1,1,"4(*), 5(*)",,,,x,x,204
+- Hộp giấy ăn,1,Ap Dung,Khong,,,,"H, R, M, F",1,1,1,1,"4(*), 5(*)",,,,x,x,205
+- Bộ đồ ăn trái cây.,1,Ap Dung,Khong,,,,"H, R, M, F",1,1,1,1,"4(*), 5(*)",,,,x,x,206
+"- Dụng cụ mở bia, rượu",1,Ap Dung,Khong,,,,"H, R, M, F",1,1,1,1,"4, 5",,,,1,1,207
+- Bàn làm việc cho 50 % số buồng ngủ,,Khong,Bat buoc,x,,,H,1,,,,"1, 2, 3(*)",1,1,x,,,208
+- Bàn làm việc cho 50 % số buồng ngủ,,Khong,khuyen khich,1,,,R,,1,,,3,,,1,,,209
+- Bàn làm việc cho 100 % số buồng ngủ,,Khong,Khong,,,,H,1,,,,"4(*), 5(*)",,,,x,x,210
+- Bàn làm việc cho 100 % số buồng ngủ,,Khong,Khong,,,,R,,1,,,"4, 5(*)",,,,1,x,211
+- Đèn bàn làm việc,,Khong,Bat buoc,x,,,H,1,,,,"1, 2, 3(*), 4(*),5(*)",1,1,x,x,x,212
+- Đèn bàn làm việc,,Khong,khuyen khich,1,,,R,,1,,,"3, 4(*), 5(*)",,,1,x,x,213
+- Ổ cắm điện an toàn ở bàn làm việc,,Khong,Bat buoc,x,,,H,1,,,,"1, 2, 3(*), 4(*),5(*)",1,1,x,x,x,214
+- Ổ cắm điện an toàn ở bàn làm việc,,Khong,khuyen khich,1,,,R,,1,,,"3, 4(*), 5(*)",,,1,x,x,215
+- Ổ cắm điện an toàn,1,Ap Dung,Bat buoc,x,,,"H, R, M, F",1,1,1,1,"1(*), 2(*), 3(*),4(*), 5(*)",x,x,x,x,x,216
+- Gương soi,1,Ap Dung,khuyen khich,1,,,"H, R, M",1,1,1,,"3, 4, 5",,,1,1,1,217
+- Gương soi cả người,1,Ap Dung,Khong,,,,"H, R, M, F",1,1,1,1,"4(*), 5(*)",,,,x,x,218
+"- Cặp đựng tài liệu thông tin về khách sạn và hướng dẫn khách gồm: nội quy, dịch vụ và giá dịch vụ, thời gian phục vụ khách của các dịch vụ, chính sách khuyến mại, phong bì, giấy, bút viết (thông tin về khách sạn có thể cung cấp trên màn hình)",1,Ap Dung,Bat buoc,x,,,"H, R, M, F",1,1,1,1,"1, 2, 3(*), 4(*),5(*)",1,1,x,x,x,219
+- Đường truyền internet không dây (wifi),1,Ap Dung,Khong,,,,"H, R, M",1,1,1,,"1, 2",,,,,,220
+- Đường truyền internet không dây (wifi) tốc độ cao,1,Ap Dung,Bat buoc,x,,,"H, R, M",1,1,1,,"3(*), 4(*), 5(*)",,,x,x,x,221
+- Đường truyền internet qua cáp tốc độ cao(internet cable),1,Ap Dung,khuyen khich,1,,,"H, R, M",1,1,1,,"3, 4, 5",,,1,1,1,222
+- Túi kim chỉ,1,Ap Dung,khuyen khich,1,,,"H, R, M, F",1,1,1,1,"3, 4, 5",,,1,1,1,223
+- Máy sấy tóc,1,Ap Dung,Bat buoc,x,,,"H, R, M, F",1,1,1,1,"3(*), 4(*), 5(*)",,,x,x,x,224
+- Sọt hoặc túi đựng đồ giặt là,1,Ap Dung,Bat buoc,x,,,"H, R, M, F",1,1,1,1,"1, 2, 3(*), 4(*),5(*)",1,1,x,x,x,225
+- Sọt đựng rác,1,Ap Dung,Bat buoc,x,,,"H, R, M, F",1,1,1,1,"1(*), 2(*), 3(*),4(*), 5(*)",x,x,x,x,x,226
+"- Bàn là, cầu là",1,Ap Dung,Khong,,,,"H, R, M, F",1,1,1,1,5,,,,,1,227
+- Két an toàn cho 30 % số buồng ngủ,1,Ap Dung,Bat buoc,x,,,"H, R, M, F",1,1,1,1,3(*),,,x,,,228
+- Két an toàn cho 80 % số buồng ngủ,1,Ap Dung,Khong,,,,"H, R, M, F",1,1,1,1,4(*),,,,x,,229
+- Két an toàn cho 100 % số buồng ngủ,1,Ap Dung,Khong,,,,"H, R, M, F",1,1,1,1,5(*),,,,,x,230
+- Cân sức khỏe,1,Ap Dung,Khong,,,,"H, R, M, F",1,1,1,1,"4, 5(*)",,,,1,x,231
+- Giá để hành lý,1,Ap Dung,Bat buoc,x,,,"H, R, M, F",1,1,1,1,"1, 2, 3(*), 4(*),5(*)",1,1,x,x,x,232
+- Dép đi trong phòng,1,Ap Dung,khuyen khich,1,,,"H, R, M, F",1,1,1,1,"1, 2, 3, 4(*), 5(*)",1,1,1,x,x,233
+- Giấy hoặc mút lau giầy,1,Ap Dung,khuyen khich,1,,,"H, R, M, F",1,1,1,1,"3, 4, 5",,,1,1,1,234
+- Tranh ảnh,1,Ap Dung,khuyen khich,1,,,"H, R, M, F",1,1,1,1,"3, 4, 5(*)",,,1,1,x,235
+- Rèm cửa sổ,1,Ap Dung,Khong,,,,"H, R, M, F",1,1,1,1,"1, 2(*)",1,x,,,,236
+- Rèm cửa sổ đủ chắn sáng,1,Ap Dung,Bat buoc,x,,,"H, R, M, F",1,1,1,1,"3(*), 4(*), 5(*)",,,x,x,x,237
+- Tủ lạnh hoặc minibar,1,Ap Dung,Bat buoc,x,,,"H, R, M, F",1,1,1,1,"1, 2(*), 3(*), 4(*),5(*)",1,x,x,x,x,238
+"- Minibar có đặt các loại đồ uống, đồ ăn vặt, đồ ăn nhẹ",1,Ap Dung,Bat buoc,x,,,"H, R, M, F",1,1,1,1,"2, 3(*), 4(*), 5(*)",,1,x,x,x,239
+- Điều hòa không khí,,Khong,khuyen khich,1,,,R,,1,,,"1, 2, 3, 4, 5",1,1,1,1,1,240
+- Điều hòa không khí,1,Ap Dung,Bat buoc,x,,,"H, M, F",1,,1,1,"1(*), 2(*), 3(*),4(*), 5(*)",x,x,x,x,x,241
+- Ti vi,,Khong,khuyen khich,1,,,R,,1,,,"1, 2, 3, 4, 5",1,1,1,1,1,242
+- Ti vi,1,Ap Dung,Bat buoc,x,,,"H, M, F",1,,1,1,"1(*), 2(*), 3(*),4(*), 5(*)",x,x,x,x,x,243
+- Tivi cho phòng khách (áp dụng đối với buồng ngủ hạng đặc biệt - suite),,Khong,Khong,,,,R,,1,,,"4, 5",,,,1,1,244
+- Tivi cho phòng khách (áp dụng đối với buồng ngủ hạng đặc biệt - suite),1,Ap Dung,Khong,,,,"H, M, F",1,,1,1,"4(*), 5(*)",,,,x,x,245
+- Hướng dẫn sử dụng điện thoại và tivi,,Khong,khuyen khich,1,,,R,,1,,,"1, 2, 3, 4, 5",1,1,1,1,1,246
+- Hướng dẫn sử dụng điện thoại và tivi,1,Ap Dung,Bat buoc,x,,,"H, M, F",1,,1,1,"1(*), 2(*), 3(*),4(*), 5(*)",x,x,x,x,x,247
+- Ấm đun nước siêu tốc,1,Ap Dung,Bat buoc,x,,,"H, R, M, F",1,1,1,1,"3(*), 4(*), 5(*)",,,x,x,x,248
+- Thiết bị phát hiện khói báo cháy (smoke detector),1,Ap Dung,Bat buoc,x,,,"H, R, M, F",1,1,1,1,"1, 2, 3(*), 4(*),5(*)",1,1,x,x,x,249
+- Hệ thống chữa cháy bằng nước tự động(sprinkler),1,Ap Dung,Khong,,,,"H, R, M, F",1,1,1,1,"4, 5",,,,1,1,250
+- Mắt nhìn gắn trên cửa,1,Ap Dung,khuyen khich,1,,,"H, R, M, F",1,1,1,1,"1, 2, 3, 4, 5",1,1,1,1,1,251
+- Chuông gọi cửa,1,Ap Dung,khuyen khich,1,,,"H, R, M, F",1,1,1,1,"1, 2, 3, 4, 5",1,1,1,1,1,252
+- Chốt an toàn,1,Ap Dung,Bat buoc,x,,,"H, R, M, F",1,1,1,1,"1(*), 2(*), 3(*),4(*), 5(*)",x,x,x,x,x,253
+- Sơ đồ hướng dẫn thoát hiểm,1,Ap Dung,Bat buoc,x,,,"H, R, M, F",1,1,1,1,"1(*), 2(*), 3(*),4(*), 5(*)",x,x,x,x,x,254
+- Ổ khóa từ dùng thẻ,1,Ap Dung,Khong,,,,"H, R, M, F",1,1,1,1,"4, 5",,,,1,1,255
+- Cửa tự động đóng,1,Ap Dung,Khong,,,,"H, R, M, F",1,1,1,1,"4, 5",,,,1,1,256
+- Thảm trải buồng ngủ hoặc sàn gỗ,1,Ap Dung,khuyen khich,1,,,H,1,1,1,1,"3, 4, 5",,,1,1,1,257
+b) Phòng vệ sinh trong buồng ngủ,,,,,,,,,,,,,,,,,,258
+- Tường bằng vật liệu không thấm nước,1,Ap Dung,Bat buoc,x,,,"H, R, M",1,1,1,1,"1(*), 2(*), 3(*),4(*), 5(*)",x,x,x,x,x,259
+- Sàn lát bằng vật liệu chống trơn,1,Ap Dung,Bat buoc,x,,,"H, R, M, F",1,1,1,1,"1(*), 2(*), 3(*),4(*), 5(*)",x,x,x,x,x,260
+- Ổ cắm điện an toàn,1,Ap Dung,Bat buoc,x,,,"H, R, M, F",1,1,1,1,"1, 2, 3(*), 4(*),5(*)",1,1,x,x,x,261
+- Chậu rửa mặt,1,Ap Dung,Bat buoc,x,,,"H, R, M, F",1,1,1,1,"1(*), 2(*), 3(*),4(*), 5(*)",x,x,x,x,x,262
+-Gương soi,1,Ap Dung,Bat buoc,x,,,"H, R, M, F",1,1,1,1,"1, 2(*), 3(*), 4(*),5(*)",1,x,x,x,x,263
+- Gương cầu (Buồng đặc biệt cao cấp),1,Ap Dung,Khong,,,,"H, R, M, F",1,1,1,1,5(*),,,,,x,264
+- Vòi nước,1,Ap Dung,Bat buoc,x,,,"H, R, M, F",1,1,1,1,"1(*), 2(*), 3(*),4(*), 5(*)",x,x,x,x,x,265
+- Nước nóng,1,Ap Dung,Bat buoc,x,,,"H, R, M, F",1,1,1,1,"1(*), 2(*), 3(*),4(*), 5(*)",x,x,x,x,x,266
+- Vòi tắm hoa sen,1,Ap Dung,Bat buoc,x,,,"H, R, M, F",1,1,1,1,"1(*), 2(*), 3(*),4(*), 5(*)",x,x,x,x,x,267
+- Hệ thống sen cây tắm đứng phun mưa,1,Ap Dung,Khong,,,,"H, R, M, F",1,1,1,1,"4, 5(*)",,,,1,x,268
+- Móc treo quần áo,1,Ap Dung,Bat buoc,x,,,"H, R, M, F",1,1,1,1,"1(*), 2(*), 3(*),4(*), 5(*)",x,x,x,x,x,269
+- Giá để khăn các loại,1,Ap Dung,Bat buoc,x,,,"H, R, M, F",1,1,1,1,"1(*), 2(*), 3(*),4(*), 5(*)",x,x,x,x,x,270
+- Bồn cầu,1,Ap Dung,Bat buoc,x,,,"H, R, M, F",1,1,1,1,"1(*), 2(*), 3(*),4(*), 5(*)",x,x,x,x,x,271
+- Vòi nước di động cạnh bồn cầu,1,Ap Dung,khuyen khich,1,,,"H, R, M, F",1,1,1,1,"1, 2, 3, 4, 5",1,1,1,1,1,272
+- Giấy vệ sinh,1,Ap Dung,Bat buoc,x,,,"H, R, M, F",1,1,1,1,"1(*), 2(*), 3(*),4(*), 5(*)",x,x,x,x,x,273
+- Thùng rác có nắp,1,Ap Dung,Bat buoc,x,,,"H, R, M, F",1,1,1,1,"1(*), 2(*), 3(*),4(*), 5(*)",x,x,x,x,x,274
+- Thiết bị thông gió,1,Ap Dung,Bat buoc,x,,,"H, R, M, F",1,1,1,1,"1(*), 2(*), 3(*),4(*), 5(*)",x,x,x,x,x,275
+- Đèn trên gương soi,1,Ap Dung,khuyen khich,1,,,"H, R, M, F",1,1,1,1,"1, 2, 3, 4(*), 5(*)",1,1,1,x,x,276
+- Đèn trần,1,Ap Dung,Bat buoc,x,,,"H, R, M, F",1,1,1,1,"1(*), 2(*), 3(*),4(*), 5(*)",x,x,x,x,x,277
+- Vật dụng cho một khách:,,,,,,,,,,,,,,,,,,278
++ Cốc,1,Ap Dung,Bat buoc,x,,,"H, R, M, F",1,1,1,1,"1(*), 2(*), 3(*),4(*), 5(*)",x,x,x,x,x,279
++ Xà phòng,1,Ap Dung,Bat buoc,x,,,"H, R, M, F",1,1,1,1,"1(*), 2(*), 3(*),4(*), 5(*)",x,x,x,x,x,280
++ Dầu gội đầu,1,Ap Dung,Khong,,,,"H, R, M, F",1,1,1,1,"1, 2",1,1,,,,281
++ Dầu gội đầu và dầu xả,1,Ap Dung,khuyen khich,1,,,"H, R, M, F",1,1,1,1,"3, 4, 5",,,1,1,1,282
++ Khăn mặt,1,Ap Dung,Bat buoc,x,,,"H, R, M, F",1,1,1,1,"1(*), 2(*), 3(*),4(*), 5(*)",x,x,x,x,x,283
++ Khăn tắm,1,Ap Dung,Bat buoc,x,,,"H, R, M, F",1,1,1,1,"1(*), 2(*), 3(*),4(*), 5(*)",x,x,x,x,x,284
++ Khăn lau tay,1,Ap Dung,Khong,,,,"H, R, M, F",1,1,1,1,"4(*), 5(*)",,,,x,x,285
++ Mũ chụp tóc,1,Ap Dung,Bat buoc,x,,,"H, R, M, F",1,1,1,1,"3(*), 4(*), 5(*)",,,x,x,x,286
++ Sữa tắm,1,Ap Dung,Bat buoc,x,,,"H, R, M, F",1,1,1,1,"3(*), 4(*), 5(*)",,,x,x,x,287
++ Tăm bông,1,Ap Dung,Bat buoc,x,,,"H, R, M, F",1,1,1,1,"3(*), 4(*), 5(*)",,,x,x,x,288
++ Kem đánh răng,1,Ap Dung,khuyen khich,1,,,"H, R, M, F",1,1,1,1,"1, 2, 3, 4, 5",1,1,1,1,1,289
++ Bàn chải đánh răng,1,Ap Dung,khuyen khich,1,,,"H, R, M, F",1,1,1,1,"1, 2, 3, 4, 5",1,1,1,1,1,290
++ Kem dưỡng da,1,Ap Dung,Khong,,,,"H, R, M, F",1,1,1,1,"4, 5",,,,1,1,291
++ Áo choàng sau tắm,1,Ap Dung,khuyen khich,1,,,"H, R, M, F",1,1,1,1,"3, 4(*), 5(*)",,,1,x,x,292
++ Bông tẩy trang,1,Ap Dung,Khong,,,,"H, R, M, F",1,1,1,1,"4, 5",,,,1,1,293
+- Muối tắm,1,Ap Dung,Khong,,,,"H, R, M, F",1,1,1,1,"4, 5",,,,1,1,294
+- Khăn chùi chân,1,Ap Dung,Bat buoc,x,,,"H, R, M, F",1,1,1,1,"3(*), 4(*), 5(*)",,,x,x,x,295
+- Bệ đặt chậu rửa mặt,1,Ap Dung,Bat buoc,x,,,"H, R, M, F",1,1,1,1,"3(*), 4(*), 5(*)",,,x,x,x,296
+- 80 % số buồng có phòng tắm đứng hoặc bồn tắm nằm có rèm che,1,Ap Dung,Bat buoc,x,,,"H, R, M, F",1,1,1,1,3(*),,,x,,,297
+- Điện thoại nối với buồng ngủ,1,Ap Dung,khuyen khich,1,,,"H, R, M, F",1,1,1,1,"3, 4, 5(*)",,,1,1,x,298
+- 100 % số buồng có phòng tắm đứng hoặc bồn tắm nằm có rèm che,1,Ap Dung,Khong,,,,"H, R, M, F",1,1,1,1,4(*),,,,x,,299
+- Bồn tắm tạo sóng cho buồng đặc biệt cao cấp,1,Ap Dung,Khong,,,,"H, R, M, F",1,1,1,1,5,,,,,1,300
+"- 100 % số buồng có phòng tắm đứng hoặc bồn tắm nằm có rèm che, trong đó 30 % số buồng có cả 2 loại",1,Ap Dung,Khong,,,,"H, R, M, F",1,1,1,1,5(*),,,,,x,301
+- Dây phơi quần áo,1,Ap Dung,Khong,,,,"H, R, M, F",1,1,1,1,5,,,,,1,302
+- Hệ thống ga và xi phông thoát sàn đảm bảo ngăn mùi hôi,1,Ap Dung,Bat buoc,x,,,"H, R, M, F",1,1,1,1,"1(*), 2(*), 3(*),4(*), 5(*)",x,x,x,x,x,303
+"2.2.3 Phòng họp, hội thảo, hội nghị",,,,,,,,,,,,,,,,,,304
+"- Bàn ghế, micro, đèn điện các loại",,Khong,Bat buoc,x,,,H,1,,,,"3(*), 4(*), 5(*)",,,x,x,x,305
+"- Máy chiếu, màn chiếu",,Khong,Bat buoc,x,,,H,1,,,,"3(*), 4(*), 5(*)",,,x,x,x,306
+- Trang thiết bị phục vụ họp,,Khong,Bat buoc,x,,,H,1,,,,"3(*), 4(*), 5(*)",,,x,x,x,307
+- Trang thiết bị phục vụ hội thảo,,Khong,Khong,,,,H,1,,,,"4(*), 5(*)",,,,x,x,308
+- Trang thiết bị phục vụ hội nghị,,Khong,Khong,,,,H,1,,,,"4(*), 5(*)",,,,x,x,309
+- Điều hòa không khí,,Khong,Bat buoc,x,,,H,1,,,,"3(*), 4(*), 5(*)",,,x,x,x,310
+- Hệ thống thông gió tốt,,Khong,Bat buoc,x,,,H,1,,,,"3(*), 4(*), 5(*)",,,x,x,x,311
+- Thảm trải phòng họp,,Khong,khuyen khich,1,,,H,1,,,,"3, 4, 5",,,1,1,1,312
+- Thảm trải phòng hội thảo,,Khong,Khong,,,,H,1,,,,"4, 5",,,,1,1,313
+- Thảm trải phòng hội nghị,,Khong,Khong,,,,H,1,,,,"4, 5",,,,1,1,314
+"- Sơ đồ, biển chỉ dẫn và đèn báo thoát hiểm",,Khong,Bat buoc,x,,,H,1,,,,"3(*), 4(*), 5(*)",,,x,x,x,315
+- Hệ thống camera trong phòng họp,,Khong,khuyen khich,1,,,H,1,,,,"3, 4, 5",,,1,1,1,316
+- Hệ thống camera trong phòng hội thảo,,Khong,Khong,,,,H,1,,,,"4, 5(*)",,,,1,x,317
+- Hệ thống camera trong phòng hội nghị,,Khong,Khong,,,,H,1,,,,"4, 5(*)",,,,1,x,318
+- Hệ thống chiếu sáng có tính thẩm mỹ và điều chỉnh được độ sáng,,Khong,Khong,,,,H,1,,,,5(*),,,,,x,319
+"2.2.4 Nhà hàng, bar, bếp",,,,,,,,,,,,,,,,,,320
+- Bàn ghế,1,Ap Dung,Bat buoc,x,,,"H, R, M, F",1,1,1,1,"2(*), 3(*), 4(*),5(*)",,x,x,x,x,321
+- Dụng cụ và tủ đựng dụng cụ phục vụ ăn uống,1,Ap Dung,Bat buoc,x,,,"H, R, M, F",1,1,1,1,"2(*), 3(*), 4(*),5(*)",,x,x,x,x,322
+- Các loại tủ lạnh bảo quản thực phẩm,1,Ap Dung,Bat buoc,x,,,"H, R, M, F",1,1,1,1,"2(*), 3(*), 4(*),5(*)",,x,x,x,x,323
+"- Trang thiết bị, dụng cụ chế biến món ăn, đồ uống",1,Ap Dung,Bat buoc,x,,,"H, R, M, F",1,1,1,1,"2(*), 3(*), 4(*),5(*)",,x,x,x,x,324
+"- Trang thiết bị chế biến, phục vụ ăn uống của nhân viên",1,Ap Dung,Khong,,,,"H, R, M, F",1,1,1,1,"4, 5(*)",,,,1,x,325
+- Trang thiết bị phục vụ ăn tự chọn,1,Ap Dung,khuyen khich,1,,,"H, R, M, F",1,1,1,1,"3, 4(*), 5(*)",,,1,x,x,326
+- Trang thiết bị phục vụ ăn tại buồng ngủ,1,Ap Dung,khuyen khich,1,,,"H, R, M, F",1,1,1,1,"3, 4(*), 5(*)",,,1,x,x,327
+- Trang thiết bị phục vụ tiệc cao cấp,1,Ap Dung,Khong,,,,"H, R, M, F",1,1,1,1,"4(*), 5(*)",,,,x,x,328
+"- Trang thiết bị, dụng cụ chế biến bánh",1,Ap Dung,Khong,,,,"H, R, M, F",1,1,1,1,"4(*), 5(*)",,,,x,x,329
+"- Trang thiết bị, dụng cụ chế biến đồ nguội",1,Ap Dung,Khong,,,,"H, R, M, F",1,1,1,1,"4(*), 5(*)",,,,x,x,330
+"- Mặt bàn soạn chia, sơ chế, chế biến món ăn làm bằng vật liệu không thấm nước",1,Ap Dung,Bat buoc,x,,,"H, R, M, F",1,1,1,1,"2(*), 3(*), 4(*),5(*)",,x,x,x,x,331
+- Bồn rửa dụng cụ ăn uống,1,Ap Dung,Bat buoc,x,,,"H, R, M, F",1,1,1,1,"2(*), 3(*), 4(*),5(*)",,x,x,x,x,332
+"- Bồn rửa cho sơ chế, chế biến riêng",1,Ap Dung,Bat buoc,x,,,"H, R, M, F",1,1,1,1,"3(*), 4(*), 5(*)",,,x,x,x,333
+- Dụng cụ và chất tẩy rửa vệ sinh,1,Ap Dung,Bat buoc,x,,,"H, R, M, F",1,1,1,1,"2(*), 3(*), 4(*),5(*)",,x,x,x,x,334
+"- Thiết bị chắn lọc rác, mỡ",1,Ap Dung,Bat buoc,x,,,"H, R, M, F",1,1,1,1,"3(*), 4(*), 5(*)",,,x,x,x,335
+- Thùng rác có nắp,1,Ap Dung,Bat buoc,x,,,"H, R, M, F",1,1,1,1,"2(*), 3(*), 4(*),5(*)",,x,x,x,x,336
+- Hệ thống thoát nước chìm,1,Ap Dung,Bat buoc,x,,,"H, R, M, F",1,1,1,1,"2(*), 3(*), 4(*),5(*)",,x,x,x,x,337
+- Hệ thống hút mùi hoạt động tốt,1,Ap Dung,Bat buoc,x,,,"H, R, M, F",1,1,1,1,"3(*), 4(*), 5(*)",,,x,x,x,338
+- Thông gió tốt,1,Ap Dung,Bat buoc,x,,,"H, R, M, F",1,1,1,1,"2(*), 3(*), 4(*),5(*)",,x,x,x,x,339
+- Ánh sáng hoặc chiếu sáng tốt,1,Ap Dung,Bat buoc,x,,,"H, R, M, F",1,1,1,1,"2(*), 3(*), 4(*),5(*)",,x,x,x,x,340
+- Điều hòa không khí cho nhà hàng,1,Ap Dung,khuyen khich,1,,,"H, R, M, F",1,1,1,1,"3, 4, 5",,,1,1,1,341
+"- Sơ đồ, biển chỉ dẫn và đèn báo thoát hiểm",1,Ap Dung,Bat buoc,x,,,"H, R, M, F",1,1,1,1,"2(*), 3(*), 4(*),5(*)",,x,x,x,x,342
+- Thảm trải nhà hàng,,Khong,Khong,,,,H,1,,,,5,,,,,1,343
+2.2.5 Giặt là,,,,,,,,,,,,,,,,,,344
+"- Bàn là, cầu là",1,Ap Dung,khuyen khich,1,,,"H, R, M, F",1,1,1,1,"1, 2, 3, 4, 5",1,1,1,1,1,345
+- Máy giặt,1,Ap Dung,khuyen khich,1,,,"H, R, M, F",1,1,1,1,"1, 2, 3, 4, 5",1,1,1,1,1,346
+- Máy sấy,1,Ap Dung,khuyen khich,1,,,"H, R, M, F",1,1,1,1,"3, 4, 5",,,1,1,1,347
+- Hệ thống thiết bị giặt là hiện đại,1,Ap Dung,Khong,,,,"H, R, M, F",1,1,1,1,"4, 5",,,,1,1,348
+"2.3 Hành lang, cầu thang",,,,,,,,,,,,,,,,,,349
+"- Sơ đồ, biển chỉ dẫn thoát hiểm",1,Ap Dung,Bat buoc,x,,,"H, R, M, F",1,1,1,1,"1(*), 2(*), 3(*),4(*), 5(*)",x,x,x,x,x,350
+- Đèn báo thoát hiểm ở hành lang,1,Ap Dung,Bat buoc,x,,,"H, R, M, F",1,1,1,1,"1(*), 2(*), 3(*),4(*), 5(*)",x,x,x,x,x,351
+"- Các biển chỉ dẫn hướng và chỉ dẫn chức năng (phòng vệ sinh, văn phòng, số tầng, số phòng…)",1,Ap Dung,Bat buoc,x,,,"H, R, M, F",1,1,1,1,"1(*), 2(*), 3(*),4(*), 5(*)",x,x,x,x,x,352
+- Cửa thoát hiểm chống cháy,1,Ap Dung,khuyen khich,1,,,"H, R, M, F",1,1,1,1,"3, 4, 5(*)",,,1,1,x,353
+- Thảm trải hành lang khu vực buồng ngủ,,Khong,Khong,,,,H,1,,,,"4, 5",,,,1,1,354
+"- Thảm trải hành lang khu vực hội nghị, hội thảo",,Khong,Khong,,,,H,1,,,,"4, 5",,,,1,1,355
+- Thảm trải cầu thang khu vực dịch vụ,,Khong,Khong,,,,H,1,,,,"4, 5",,,,1,1,356
+"2.4 Thông gió, điều hoà không khí ở các khu vực",,,,,,,,,,,,,,,,,,357
+- Đảm bảo thông thoáng,1,Ap Dung,Bat buoc,x,,,"H, R, M, F",1,1,1,1,"1(*), 2(*), 3(*),4(*), 5(*)",x,x,x,x,x,358
+- Thông gió tự nhiên,1,Ap Dung,Khong,,,,"H, R, M, F",1,1,1,1,"1, 2, 3, 4, 5",,,,,,359
+- Hệ thống thông gió hoạt động tốt,1,Ap Dung,Bat buoc,x,,,"H, R, M, F",1,1,1,1,"1(*), 2(*), 3(*),4(*), 5(*)",x,x,x,x,x,360
+- Điều hòa không khí ở các khu vực dịch vụ,1,Ap Dung,khuyen khich,1,,,"H, R, M, F",1,1,1,1,"3, 4, 5",,,1,1,1,361
+2.5 Hệ thống nước,,,,,,,,,,,,,,,,,,362
+"- Cung cấp đủ nước sạch và nước cho chữa cháy, có hệ thống dự trữ nước",1,Ap Dung,Bat buoc,x,,,"H, R, M, F",1,1,1,1,"1(*), 2(*), 3(*),4(*), 5(*)",x,x,x,x,x,363
+- Có hệ thống thoát nước đảm bảo vệ sinh môi trường,1,Ap Dung,Bat buoc,x,,,"H, R, M, F",1,1,1,1,"1(*), 2(*), 3(*),4(*), 5(*)",x,x,x,x,x,364
+- Nước được lọc và đảm bảo uống được trực tiếp từ vòi nước,1,Ap Dung,Khong,,,,"H, R, M, F",1,1,1,1,5,,,,,1,365
+2.6 Thang máy,,,,,,,,,,,,,,,,,,366
+- Từ bốn tầng trở lên có thang máy (kể cả tầng trệt),1,Ap Dung,Khong,,,,"H, R, M",1,1,1,,2,,1,,,,367
+- Từ ba tầng trở lên có thang máy dành cho khách (kể cả tầng trệt),1,Ap Dung,khuyen khich,1,,,"H, R, M",1,1,1,,"3, 4(*), 5(*)",,,1,x,x,368
+- Thang máy cho nhân viên,1,Ap Dung,Khong,,,,"H, R, M",1,1,1,,"4, 5(*)",,,,1,x,369
+- Thang máy cho hàng hóa,1,Ap Dung,Khong,,,,"H, R, M",1,1,1,,"4, 5",,,,1,1,370
+- Thang máy có tiện nghi phục vụ người khuyết tật,1,Ap Dung,Khong,,,,"H, R, M",1,1,1,,5,,,,,1,371
+"2.7 Hệ thống phương tiện thông tin, liên lạc",,,,,,,,,,,,,,,,,,372
+"- Hệ thống phương tiện thông tin, liên lạc đầy đủ, hoạt động tốt",1,Ap Dung,Bat buoc,x,,,"H, R, M, F",1,1,1,1,"1(*), 2(*), 3(*),4(*), 5(*)",x,x,x,x,x,373
+2.8 Hệ thống điện,,,,,,,,,,,,,,,,,,374
+- Cung cấp điện 24/24 h,1,Ap Dung,Bat buoc,x,,,"H, R, M, F",1,1,1,1,"1(*), 2(*), 3(*),4(*), 5(*)",x,x,x,x,x,375
+- Hệ thống điện chiếu sáng đảm bảo yêu cầu từng khu vực,1,Ap Dung,Bat buoc,x,,,"H, R, M, F",1,1,1,1,"1(*), 2(*), 3(*),4(*), 5(*)",x,x,x,x,x,376
+- Có hệ thống điện dự phòng/máy phát điện,1,Ap Dung,Bat buoc,x,,,"H, R, M, F",1,1,1,1,"1, 2(*), 3(*), 4(*),5(*)",1,x,x,x,x,377
+KẾT QUẢ,,,,,,,,,,,,,,,,,,
+Tiêu chí bắt buộc,,,134,100%,27,27,,,,,,,1,2,3,4,5,
+Tiêu chí khuyến khích,,,45,"80,0%",14,14,,,,,,,75%,"80,0%","80,0%","80,0%","80,0%",
+Bạn đạt tiêu chí bắt buộc là,,,27,"20,1%","79,9%","79,9%",,,,,,,,,,,,
+Bạn đạt tiêu chí khuyến khích là,,,14,"31,1%","68,9%","68,9%",,,,,,,,,,,,
+Còn thiếu tiêu chí bắt buộc,,,107,,,,,,,,,,,,,,,
+Còn thiếu tiêu chí khuyến khích,,,22,,,,,,,,,,,,,,,
+Kết luận tiêu chí bắt buộc,,,,,Khong dat,,,,,,,,,,,,,
+Kết luận tiêu chí khuyến khích,,,,,Khong dat,,,,,,,,,,,,,
+Kết luân chung,,,,,Khong dat,,,,,,,,,,,,,

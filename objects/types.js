@@ -1,0 +1,16 @@
+const deliveryPayLoad = {
+  "pickupStation": "",
+  "deliveryStation": "",
+  "nextHub": "",
+  "currentOwner": "",
+  "assignedDeliveryPartner": "",
+  "initialPickupType": "",
+  "pickupVehicleType": "",
+  "deliveryOption": "",
+  "instructions": "",
+  "estimatedDelivery": "",
+  "failedDeliveryAttempt": "",
+  "proofOfDelivery": "",
+  "deliveredTo": "",
+  "deliveryAddressType": "",
+}
