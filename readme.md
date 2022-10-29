@@ -5,6 +5,7 @@
 5. rename header of list update book. Chú ý trim header.  
 6. Đổi tên header Tag => Tags. Đổi tên Tag tương ứng.  
 - Sort tên sách theo thứ tự A-Z
+Age 0 - 2 => 0-2 tuổi
 Age 3 - 6 => 3-6 tuổi
 Age 0-6 => 0-6 tuổi  
 Age 7-9 => 7-9 tuổi  
