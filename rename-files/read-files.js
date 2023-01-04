@@ -17,7 +17,7 @@ let filenames = fs.readdirSync('images', function(err, files){
     console.log('Reading files...')
 })
 filenames.forEach(filename => {
-    let new_name = filename.replace(/ /g, "-").replace(/,/g, "").replace(/\!/g, "");
+    let new_name = filename.replace(/ /g, "-").replace(/'/g, "_").replace(/\(/g, "").replace(/\)/g, "").replace(/,/g, "").replace(/\!/g, "");
     let image_path = `https://lotuscommunity.org.vn/wp-content/uploads/${nowObj.year}/${nowObj.month}/` + new_name; // TODO:change year, month
     if(new_name !== '.gitkeep'){
         const imagePathObj = {
